@@ -1,2 +1,3 @@
 # Agrinho-gabrielkulak
-jogo e sobre regar arvores por um certo tempo, se você conseguir regar todas as arvores durante o tempo você ganha
+jogo é sobre regar árvores por um certo tempo, se você conseguir regar todas as árvores durante o tempo você ganha
+para saber cuidar mais da natureza
